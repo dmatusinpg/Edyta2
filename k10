@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "array.h"
+#include "array.h"/*elo*/
 #include "gra.h"
 #include <unistd.h> /*do funkcji usleep, czyli chwilowego wstrzymania programu*/
 
